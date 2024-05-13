@@ -5,11 +5,11 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Momoir - Jekyll Template for Story Tellers
-description:        Hi, I'm Memoir, an awesome Jekyll bloging theme.
+title:              Building Bridges (Quadram Institute Bioscience)
+description:        networking and training activities to strenthen relationships between the Quadram Institute Bioscience and EU partners
 
-# Site subpath, e.g. /blog
-baseurl:            ""
+# Site subpath, e.g. /blog ## TODO
+baseurl:            "/octo-test"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -23,25 +23,14 @@ logo_text:          Memoir      # if the above "logo:" image variable  is not se
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
-    bio:            Hi, I'm John, a web designer, human and the author of this blog.
-    email:          john@somewebsite.com
-    website:        http://somewebsite.com
-    facebook:       https://www.facebook.com/
-    flickr:         https://flickr.com/
-    dribbble:       https://dribbble.com/
-    github:         https://github.com/
-    googleplus:     https://plus.google.com/
-    instagram:      https://www.instagram.com/
-    linkedin:       https://www.linkedin.com/feed/
-    pinterest:      https://www.pinterest.com/
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
-    youtube:        https://www.youtube.com/
+    name:           Lisa Marchioretto
+    bio:            Hi, I'm Lisa, a programme manager and EU enthusiast.
+    email:          lisa.marchioretto@quadram.ac.uk
+
 
 # Social share buttons
 twitter_username:   username
-github_username:    username
+github_username:    marchiol
 
 # Site background color
 template:           light       # light or dark
@@ -57,7 +46,7 @@ footer:
     image:          footer.jpg  # upload your header image to /assets/posts/ folder
     align:          center      #top, center or bottom
     text:           light       # light or dark
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in London, UK.
+    copyright:      Template by <a href="https://unbound.studio/">Unbound Studio</a>.
 
 # Post settings
 post:
