@@ -18,8 +18,8 @@ permalink:          /:title/
 url:                ""
 
 # Site logo, image or text
-logo:               logo.svg # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          Building-Bridges      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo:                # e.g. logo.png, upload logo image file to /assets/img/ folder
+logo_text:          Building Bridges      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
